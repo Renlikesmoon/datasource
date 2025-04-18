@@ -1,0 +1,27 @@
+[
+ { 
+   "soal": "5 + 4",
+   "tipe": "Mudah",
+   "jawab": "9"
+ },
+ {
+   "soal": "16 - 9",
+   "tipe": "Mudah",
+   "jawab": "7"
+ },
+ {
+   "soal": "19 - 13",
+   "tipe": "Mudah",
+   "jawab": "6"
+ },
+ {
+   "soal": "24 - 16",
+   "tipe": "Mudah",
+   "jawab": "8"
+ },
+ { 
+   "soal": "35 ÷ 5",
+   "tipe": "Mudah",
+   "jawab": "7"
+ }
+]

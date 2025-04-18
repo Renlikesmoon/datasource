@@ -52,11 +52,14 @@
     "name": "Geto Suguru"
   },
   {
-    "img": "",
+    "img": "https://cdn.myanimelist.net/images/characters/2/517123.jpg",
     "name": "Touji Fushiguro"
   },
   {
     "img": "",
     "name": "Ryoumen Sukuna"
-  }
+  },
+  { 
+    "img": "",
+    "name": "Megumi Fushiguro"
 ]

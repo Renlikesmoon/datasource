@@ -1,6 +1,8 @@
 # DataSource
 An Lightweight database for my Application
 
+`Gunakan lah repository ini untuk menambah koleksi game pada Bot anda!`
+
 ## Information
 
 Repo ini berisi data JSON untuk game, termasuk informasi tentang karakter, item, dan level. Data JSON ini dapat digunakan untuk menginisialisasi karakter dan item, mengatur level dan tantangan, serta menyimpan dan memuat data game. Dengan menggunakan data JSON, pengembang game dapat dengan mudah mengelola dan memperbarui data game tanpa harus mengubah kode program.

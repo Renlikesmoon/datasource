@@ -20,11 +20,11 @@ Fitur-fitur repo ini antara lain:
 
 Dengan menggunakan repo ini, pengembang game dapat fokus pada pengembangan game yang lebih baik dan lebih efisien.
 
-<div align="center">
+<div align="center" style="background-color: #0d1117; color: #c9d1d9; padding: 20px; border-radius: 10px;">
   <details open>
-    <summary><b>Contribute</b></summary>
+    <summary><b>👁️ GitHub Contributions</b></summary>
     <br>
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/xct007/xct007/output/github-contribution-grid-snake.svg" />
+    <p>This is my contributions off all time</p>
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/xct007/xct007/output/github-contribution-grid-snake-dark.svg" />
   </details>
 </div>
-

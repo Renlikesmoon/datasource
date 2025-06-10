@@ -22,7 +22,7 @@ Dengan menggunakan repo ini, pengembang game dapat fokus pada pengembangan game 
 
 <div align="center">
   <details open>
-    <summary><b>👁️ Profile Visitors</b></summary>
+    <summary><b>Contribute</b></summary>
     <br>
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/xct007/xct007/output/github-contribution-grid-snake.svg" />
   </details>

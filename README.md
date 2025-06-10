@@ -25,9 +25,7 @@ Dengan menggunakan repo ini, pengembang game dapat fokus pada pengembangan game 
     <summary><b>🐍 GitHub Contribution</b></summary>
     <br>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https:                                                                                          
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xct007/xct007/output/github-contribution-grid-snake.svg" />
-      <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/xct007/xct007/output/github-contribution-grid-snake.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset=                                                                         "https://raw.githubusercontent.com/xct007/xct007/output/github-contribution-grid-snake.svg" />
     </picture>
   </details>
 </div>
